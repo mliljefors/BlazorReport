@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BlazorReport2": {
+    "BlazorReport": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
